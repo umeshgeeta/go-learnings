@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../go-prod"
+		},
+		{
+			"path": "../goshared"
+		},
+		{
+			"path": "../learning"
+		}
+	]
+}
